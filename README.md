@@ -11,5 +11,5 @@ Also see the [Esri Developer](https://developers.arcgis.com/documentation/) for 
 3. `npm start`
 
 ## Test App
-1. Test all suites (all test file), run : `npm test`
+1. Test all suites (all test file), run : `npm test a`
 2. Test specific file, run this : `npm test` -- SomeTestFileToRun (e.g. `npm test` -- Login.test.js)

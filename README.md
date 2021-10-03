@@ -1,6 +1,6 @@
 # Esri Leaflet with React
 
-This is a Web Map App using [Esri Leaflet](https://developers.arcgis.com/esri-leaflet/) with within a React App (made with [Create React App](https://create-react-app.dev/)). 
+This is a Web Map App using [Esri Leaflet](https://developers.arcgis.com/esri-leaflet/) within a React App (made with [Create React App](https://create-react-app.dev/)). 
 
 Also see the [Esri Developer](https://developers.arcgis.com/documentation/) for more documentation.
 

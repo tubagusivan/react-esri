@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-esri/static/css/main.d158ca57.chunk.css",
+    "main.js": "/react-esri/static/js/main.ad0966e5.chunk.js",
+    "main.js.map": "/react-esri/static/js/main.ad0966e5.chunk.js.map",
+    "runtime-main.js": "/react-esri/static/js/runtime-main.f578c388.js",
+    "runtime-main.js.map": "/react-esri/static/js/runtime-main.f578c388.js.map",
+    "static/css/2.7d011da2.chunk.css": "/react-esri/static/css/2.7d011da2.chunk.css",
+    "static/js/2.66ef4bdd.chunk.js": "/react-esri/static/js/2.66ef4bdd.chunk.js",
+    "static/js/2.66ef4bdd.chunk.js.map": "/react-esri/static/js/2.66ef4bdd.chunk.js.map",
+    "index.html": "/react-esri/index.html",
+    "precache-manifest.497bff0ce31a038e647e4f9c5ab45e17.js": "/react-esri/precache-manifest.497bff0ce31a038e647e4f9c5ab45e17.js",
+    "service-worker.js": "/react-esri/service-worker.js",
+    "static/css/2.7d011da2.chunk.css.map": "/react-esri/static/css/2.7d011da2.chunk.css.map",
+    "static/css/main.d158ca57.chunk.css.map": "/react-esri/static/css/main.d158ca57.chunk.css.map",
+    "static/js/2.66ef4bdd.chunk.js.LICENSE.txt": "/react-esri/static/js/2.66ef4bdd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f578c388.js",
+    "static/css/2.7d011da2.chunk.css",
+    "static/js/2.66ef4bdd.chunk.js",
+    "static/css/main.d158ca57.chunk.css",
+    "static/js/main.ad0966e5.chunk.js"
+  ]
+}
